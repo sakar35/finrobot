@@ -17,7 +17,7 @@ def run_web_server():
     app.run(host='0.0.0.0', port=port)
 
 # --- BOTUN ASIL KODLARI ---
-TELEGRAM_TOKEN = "8845362119:AAF3pB4OWALb5xeVS1k77-bkxYVPrIH1ly4" # Tokenini buraya tam ekle
+TELEGRAM_TOKEN = "8845362119:AAFpplIh9vLfBWALpS7A7ZxvSurS4AZ19q0" # Tokenini buraya tam ekle
 CHAT_ID = "2142625922" # ID'ni buraya yaz
 KVDB_URL = "https://kvdb.io/FinRobotSecureStorage_9921a/portfoy"
 
